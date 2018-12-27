@@ -1,5 +1,7 @@
 package projects.coffeemachine.com.damirel;
 
+import projects.coffeemachine.com.damirel.enums.State;
+
 public class Main {
 
     public static void main(String[] args) {

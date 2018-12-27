@@ -3,6 +3,7 @@ package projects.coffeemachine.com.damirel;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
+import projects.coffeemachine.com.damirel.enums.State;
 
 public class MachineInputHandler {
 

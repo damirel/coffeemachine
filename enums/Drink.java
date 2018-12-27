@@ -1,4 +1,4 @@
-package projects.coffeemachine.com.damirel;
+package projects.coffeemachine.com.damirel.enums;
 
 public enum Drink {
     ESPRESSO(4, 250, 0, 16, 1),

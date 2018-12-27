@@ -3,6 +3,8 @@ package projects.coffeemachine.com.damirel;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Optional;
+import projects.coffeemachine.com.damirel.enums.Drink;
+import projects.coffeemachine.com.damirel.enums.State;
 
 public class CoffeeMachine {
 
