@@ -1,9 +1,9 @@
-package projects.coffeemachine.com.damirel;
+package coffeemachine;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
-import projects.coffeemachine.com.damirel.enums.State;
+import coffeemachine.enums.State;
 
 public class MachineInputHandler {
 

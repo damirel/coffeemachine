@@ -1,6 +1,6 @@
-package projects.coffeemachine.com.damirel;
+package coffeemachine;
 
-import projects.coffeemachine.com.damirel.enums.State;
+import coffeemachine.enums.State;
 
 public class Main {
 

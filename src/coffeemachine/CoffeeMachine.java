@@ -1,10 +1,10 @@
-package projects.coffeemachine.com.damirel;
+package coffeemachine;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Optional;
-import projects.coffeemachine.com.damirel.enums.Drink;
-import projects.coffeemachine.com.damirel.enums.State;
+import coffeemachine.enums.Drink;
+import coffeemachine.enums.State;
 
 public class CoffeeMachine {
 

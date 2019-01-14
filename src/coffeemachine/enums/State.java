@@ -1,6 +1,6 @@
-package projects.coffeemachine.com.damirel.enums;
+package coffeemachine.enums;
 
-import projects.coffeemachine.com.damirel.CoffeeMachine;
+import coffeemachine.CoffeeMachine;
 
 public enum State {
     CHOOSE_ACTION {
